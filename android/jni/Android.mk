@@ -19,6 +19,7 @@ LOCAL_SRC_FILES :=	../../tolua.c \
 					../../pb.c \
 					../../lpeg.c \
 					../../struct.c \
+					../../snapshot.c \
 					../../cjson/strbuf.c \
 					../../cjson/lua_cjson.c \
 					../../cjson/fpconv.c \
